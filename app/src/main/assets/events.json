@@ -1,0 +1,33 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "event 1",
+      "active": true
+    },
+    
+    {
+      "id" : 2,
+      "name" : "event 2",
+      "active": true
+    },
+    
+    {
+      "id" : 3,
+      "name" : "event 3",
+      "active": false
+    },
+    
+    {
+      "id": 4,
+      "name": "event 4",
+      "active": true
+    },
+    
+    {
+      "id": 5,
+      "name": "event 5",
+      "active": false
+    }
+  ]
+}
